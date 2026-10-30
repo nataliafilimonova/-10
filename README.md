@@ -14,11 +14,6 @@ x^2 - 3x + 9, & \text{если } x \le 3 \\[10pt]
 \dfrac{1}{x^3 + 3}, & \text{если } x > 3 
 \end{cases}
 $$
-
-\dfrac{1}{x^3 + 3}, & \text{если } x > 3 
-\end{cases}
-$$
-
 ### Функция \(f_b(x)\)
 
 $$

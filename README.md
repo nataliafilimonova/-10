@@ -10,7 +10,7 @@
 $$
 f_a(x) = 
 \begin{cases} 
-x^2 - 3x + 9, & \text{если } x \le 3 
+x^2 - 3x + 9, & \text{если } x \le 3\\
 
 \dfrac{1}{x^3 + 3}, & \text{если } x > 3 
 \end{cases}
